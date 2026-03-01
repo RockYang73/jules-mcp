@@ -1,0 +1,4 @@
+mcp
+google-adk
+python-dotenv
+anyio
